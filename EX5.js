@@ -2,12 +2,12 @@
 
 let dic = {4: 'a', 3: 'e', 1: 'i', 5: 's'}, str = 'T35t3 d3 35t4g1o';
 
-String.prototype.troca = function (obj){
-    let reStr = this, x;
-    for (x in obj){
-        reStr = reStr.replace(new RegExp(x, 'g'), obj[x]);
+String.prototype.troca = function (objeto){
+    let strR = this, x;
+    for (x in objeto){
+        strR = strR.replace(new RegExp(x, 'g'), objeto[x]);
     }
-    return reStr;
+    return strR;
 };
 
 console.log(str.troca(dic));
