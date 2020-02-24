@@ -29,6 +29,8 @@ Usei como referência esse tutorial. Peguei somente o que ia usar.
 
 [](https://gist.github.com/whoisryosuke/5b0d54926c997a6620945d780958ea74)
 
+[](https://medium.com/@raullesteves/javascript-entendendo-o-reduce-de-uma-vez-por-todas-c4cbaa16e380)
+
 
 
 
