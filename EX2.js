@@ -2,11 +2,11 @@
 
 const primeiroArg = function (str1,str2){
     return (str1 + " " + str2);
-};
+}
 
 function FuncPrincipal(func, str1, str2){
     return func(str1,str2);
-};
+}
 
 let str = "Olá", str1 = "Mundo";
 

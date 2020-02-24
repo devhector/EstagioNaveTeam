@@ -5,7 +5,7 @@ function groupString(){
     for (argumentos of arguments)
         str += argumentos;
     return str;
-};
+}
 
 console.log(groupString("Hello","World","Hi"));
 

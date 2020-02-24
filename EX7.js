@@ -11,18 +11,8 @@ String.prototype.firstUp = function() {
     return this.charAt(0).toUpperCase() + this.slice(1);
 }
 
-/*
-function Prop(obj, nomeDoObj) {
-    var resultado = "";
-    for (var i in obj) {
-      if (obj.hasOwnProperty(i)) {
-          resultado += nomeDoObj + "." + i + " = " + obj[i];
-      }
-    }
-    return resultado;
-  }
+for (let i = 0; i < ObjArray.length; i++){
+  console.log(`Olá ${ObjArray[i].nome.firstUp()} ${ObjArray[i].sobrenome}!`);
+}
 
-*/
-
-console.log(ObjArray[0].nome.firstUp());
 

@@ -20,13 +20,14 @@ Executar no terminal na pasta raiz: `node EX4.js`
 Executar no terminal na pasta raiz: `node EX5.js`  
 [Referência: StackOverflow](https://stackoverflow.com/questions/16576983/replace-multiple-characters-in-one-replace-call)  
 
+
 #### Exercício 6.  
 Instalar o axios `npm install axios`  
 Executar no terminal na pasta raiz: `node EX6.js`  
 Usei como referência esse tutorial. Peguei somente o que ia usar.  
 [Referência: Consumindo API com NodeJs e Axios](http://codeheaven.io/how-to-use-axios-as-your-http-client-pt/)
 
-https://gist.github.com/whoisryosuke/5b0d54926c997a6620945d780958ea74
+[](https://gist.github.com/whoisryosuke/5b0d54926c997a6620945d780958ea74)
 
 
 
