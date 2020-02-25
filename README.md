@@ -1,10 +1,10 @@
 # Testes para estágio na Nave Team.
 
-Todos os exercícios foram feitos com a ajuda da internet, eu não tenho conhecimento aprofundado em JS, coloquei todas as referências que eu usei para desenvolver os algoritmos que resolviam o problemas propostos. No EX6.js, onde tinha que consumir uma API, usei também como base o que aprendi na *Semana Omnistack* da Rocketseat.  
+Todos os exercícios foram feitos com a ajuda da internet, eu não tenho conhecimento aprofundado em JS, coloquei todas as referências que eu usei para desenvolver os algoritmos que resolviam os problemas propostos. No EX6.js, onde tinha que consumir uma API, usei também como base o que aprendi na *Semana Omnistack* da Rocketseat.  
 Para executar os *exercícios*, usei o NodeJS.  
 * Primeiro instale o [NodeJS](https://nodejs.org/en/)
 * Agora execute com `node arquivo.js`
-* Para executar os exercícios, vá até a pasta raiz onde estão os arquivos .js e execute no terminal `node EX1.js` para executar o EX1, assim sucessivamente.
+* Para executar os exercícios, vá até a :file_folder: (pasta raiz) onde estão os arquivos .js e execute no terminal `node EX1.js` para executar o EX1, assim sucessivamente.
 
 #### Exercício 1. 
 [Referência: MDN web docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String/length)
