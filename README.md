@@ -1,4 +1,4 @@
-# Testes para estágio na Nave Team.
+# Testes para estágio na ![Nave Team](https://i.imgur.com/swhde5e.png).
 
 Todos os exercícios foram feitos com a ajuda da internet, eu não tenho conhecimento aprofundado em JS, coloquei todas as referências que eu usei para desenvolver os algoritmos que resolviam os problemas propostos. No EX6.js, onde tinha que consumir uma API, usei também como base o que aprendi na *Semana Omnistack* da Rocketseat.  
 Para executar os *exercícios*, usei o NodeJS.  
