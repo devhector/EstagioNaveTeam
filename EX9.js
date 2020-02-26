@@ -9,11 +9,16 @@ let ObjArray = [
 
 //Primeira interpretação que eu tive com o Exercício.
 
-let MenorI = ObjArray.filter((obj) => {
-    if (obj.idade < 25) return true;
-});
+function MenorIdade(obj){
+    let i;
+    for(i in obj){
+        if(obj[i].idade < 25)
+        return obj;
+    }
+    return null;
+}
 
-if (MenorI) console.log(ObjArray);
+console.log(MenorIdade(ObjArray));
 
 //Outras possíveis resoluções que pensei depois
 
